@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "39128941698",
+    "firebase_url": "https://proj-nel.firebaseio.com",
+    "project_id": "proj-nel",
+    "storage_bucket": "proj-nel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39128941698:android:44360591b32389ca",
+        "android_client_info": {
+          "package_name": "com.example.projectfuture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRRq4ALlyWpy_VRZpLBVHefQHvBrXjnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39128941698-bf39h8cil6h3cr1m73k4m3e1n7kqc8b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
