@@ -20,7 +20,7 @@ public class RegisterActivity extends AppCompatActivity {
         regnumber=findViewById(R.id.regphoneno);
         verifyotp=findViewById(R.id.verifyotp);
         sendotp=findViewById(R.id.regmob);
-
+        //comment
         sendotp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

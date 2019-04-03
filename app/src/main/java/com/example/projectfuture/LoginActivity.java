@@ -18,6 +18,8 @@ public class LoginActivity extends AppCompatActivity {
         phno=findViewById(R.id.loginphoneno);
         login=findViewById(R.id.login);
 
+        //login button function
+
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
